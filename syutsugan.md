@@ -11,16 +11,19 @@
 - https://mirai-compass.net/usr/chusugih/common/login.jsf
 - 입학 동기등 입력이 필요해서 대기중 (시아한테 확인 필요)
 - ※国内からの簡易書留かつ速達のみ可
+- 보내는것 사진표, 조사서
 - 167-0035　東京都杉並区今川 2-7-1
 
 ＃ 니혼다이니
 - https://mirai-compass.net/usr/ndai2h/common/loginEvent.jsf
 - 합급 활동 내용 입력 시아확인 필요
 - 郵送のみ 簡易書留
+- 보내는것 조사서, 지원표
 - 167-0032 東京都杉並区天沼 1-45-33
 - ※書類提出期日 2026 年 1 月 26 日(月)～2026 年 2 月 6 日(金)消印有効 
 
 ＃ 슈쿠토쿠스가모
 - https://mirai-compass.net/usr/shukusuh/common/login.jsf
 - 1월 25일부터 지원
+- 보내는건 조사서만
 - 170-0001 東京都豊島区西巣鴨2-22-16
